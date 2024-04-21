@@ -53,7 +53,7 @@ I also completed manual testing and tested out all functions to make sure they w
 
 ## Deployment
 
-My site was deployed on GitHub pages at https://epageone.github.io/Word Scramble Game/
+My site was deployed on GitHub pages at https://epageone.github.io/Milestone-Project-2---Word-Scramble-Game/
 
 
 ## Credits
